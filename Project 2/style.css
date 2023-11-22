@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-family: 'Barlow', sans-serif; 
+    background-color:  #006445;
+    list-style: none;
+   height: 120px;
+   width: 200vh;
+
+
+  
+    
+}
+li a{
+    color: white;
+    text-decoration: none;
+    padding-top: 30px;
+  
+    
+ 
+}
+
+
+img{
+    height: 120px;
+    width: 220px;
+    padding-left: 100px;
+
+ 
+  
+
+ 
+}
+
+.zoekk{
+   
+    display: flex;
+    justify-content:space-between;
+    background-color:#008a5f;
+    width: 400px;
+    font-size: 18px;
+    font-family: 'Barlow', sans-serif; 
+    margin-right: 35px;
+    
+   
+
+}
+
+.zoekk li{
+    padding-top: 30px;
+    margin: 10px 10px;
+}
+
+body{
+    background-color: #066849;
+}
